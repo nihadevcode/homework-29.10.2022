@@ -1,0 +1,5 @@
+C:\Users\Nihad\Desktop\Visual Studio\Homework\28.10.2022 Part2\28.10.2022 Part2\obj\Debug\netcoreapp3.1\28.10.2022 Part2.csproj.AssemblyReference.cache
+C:\Users\Nihad\Desktop\Visual Studio\Homework\28.10.2022 Part2\28.10.2022 Part2\obj\Debug\netcoreapp3.1\28.10.2022 Part2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nihad\Desktop\Visual Studio\Homework\28.10.2022 Part2\28.10.2022 Part2\obj\Debug\netcoreapp3.1\28.10.2022 Part2.AssemblyInfoInputs.cache
+C:\Users\Nihad\Desktop\Visual Studio\Homework\28.10.2022 Part2\28.10.2022 Part2\obj\Debug\netcoreapp3.1\28.10.2022 Part2.AssemblyInfo.cs
+C:\Users\Nihad\Desktop\Visual Studio\Homework\28.10.2022 Part2\28.10.2022 Part2\obj\Debug\netcoreapp3.1\28.10.2022 Part2.csproj.CoreCompileInputs.cache
