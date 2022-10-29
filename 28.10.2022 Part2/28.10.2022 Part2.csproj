@@ -6,4 +6,8 @@
     <RootNamespace>_28._10._2022_Part2</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Service\Service.csproj" />
+  </ItemGroup>
+
 </Project>

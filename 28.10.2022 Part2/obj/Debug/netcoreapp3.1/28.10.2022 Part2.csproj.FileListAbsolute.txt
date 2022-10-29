@@ -3,3 +3,15 @@ C:\Users\Nihad\Desktop\Visual Studio\Homework\28.10.2022 Part2\28.10.2022 Part2\
 C:\Users\Nihad\Desktop\Visual Studio\Homework\28.10.2022 Part2\28.10.2022 Part2\obj\Debug\netcoreapp3.1\28.10.2022 Part2.AssemblyInfoInputs.cache
 C:\Users\Nihad\Desktop\Visual Studio\Homework\28.10.2022 Part2\28.10.2022 Part2\obj\Debug\netcoreapp3.1\28.10.2022 Part2.AssemblyInfo.cs
 C:\Users\Nihad\Desktop\Visual Studio\Homework\28.10.2022 Part2\28.10.2022 Part2\obj\Debug\netcoreapp3.1\28.10.2022 Part2.csproj.CoreCompileInputs.cache
+C:\Users\Nihad\Desktop\Visual Studio\Homework\28.10.2022 Part2\28.10.2022 Part2\bin\Debug\netcoreapp3.1\28.10.2022 Part2.exe
+C:\Users\Nihad\Desktop\Visual Studio\Homework\28.10.2022 Part2\28.10.2022 Part2\bin\Debug\netcoreapp3.1\28.10.2022 Part2.deps.json
+C:\Users\Nihad\Desktop\Visual Studio\Homework\28.10.2022 Part2\28.10.2022 Part2\bin\Debug\netcoreapp3.1\28.10.2022 Part2.runtimeconfig.json
+C:\Users\Nihad\Desktop\Visual Studio\Homework\28.10.2022 Part2\28.10.2022 Part2\bin\Debug\netcoreapp3.1\28.10.2022 Part2.runtimeconfig.dev.json
+C:\Users\Nihad\Desktop\Visual Studio\Homework\28.10.2022 Part2\28.10.2022 Part2\bin\Debug\netcoreapp3.1\28.10.2022 Part2.dll
+C:\Users\Nihad\Desktop\Visual Studio\Homework\28.10.2022 Part2\28.10.2022 Part2\bin\Debug\netcoreapp3.1\28.10.2022 Part2.pdb
+C:\Users\Nihad\Desktop\Visual Studio\Homework\28.10.2022 Part2\28.10.2022 Part2\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\Nihad\Desktop\Visual Studio\Homework\28.10.2022 Part2\28.10.2022 Part2\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\Nihad\Desktop\Visual Studio\Homework\28.10.2022 Part2\28.10.2022 Part2\obj\Debug\netcoreapp3.1\28.10.2022 Part2.csproj.CopyComplete
+C:\Users\Nihad\Desktop\Visual Studio\Homework\28.10.2022 Part2\28.10.2022 Part2\obj\Debug\netcoreapp3.1\28.10.2022 Part2.dll
+C:\Users\Nihad\Desktop\Visual Studio\Homework\28.10.2022 Part2\28.10.2022 Part2\obj\Debug\netcoreapp3.1\28.10.2022 Part2.pdb
+C:\Users\Nihad\Desktop\Visual Studio\Homework\28.10.2022 Part2\28.10.2022 Part2\obj\Debug\netcoreapp3.1\28.10.2022 Part2.genruntimeconfig.cache

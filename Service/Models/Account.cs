@@ -8,37 +8,33 @@ namespace Service.Models
 {
     public class Account : IAccount
     {
-        public static void Login()
+        public string Login(string email, string password, int roleId)
         {
-            Console.WriteLine("Please enter your email:");
-            string Email = Console.ReadLine();
-            Console.WriteLine("Please enter your password:");
-            string Password = Console.ReadLine();
-
-            if (Email =="test@code.edu.az" && Password == "test12345")
+            if (email =="test@code.edu.az" && password == "test12345")
 
             {
-                Console.WriteLine("Login Successful");
+                if (CheckRole(roleId))
+                {
+                    return "Login Successful";
+                }
+                else
+                {
+                    return "You don't have a permission for login";
+                }
             }
             else
             {
-                Console.WriteLine("Email or Password is incorrect");
+                return "Email or Password is incorrect";
             }
         }
 
-        public static void CheckRole(int roleId)
+        public bool CheckRole(int roleId)
         {
-            Console.WriteLine("Please enter your role:");
-            roleId = int.Parse(Console.ReadLine());
-
-            if (roleId == (int)Roles.SuperAdmin)
+            if (roleId == 999)
             {
-                Console.WriteLine("Login Successful");
+                return true;
             }
-            else
-            {
-                Console.WriteLine("Role is incorrect");
-            }
+                return false;
         }
     }
 }

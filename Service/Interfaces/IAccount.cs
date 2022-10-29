@@ -4,8 +4,10 @@ using System.Text;
 
 namespace Service.Interfaces
 {
-    interface IAccount
+    public interface IAccount
     {
+        string Login(string email, string password, int roleId);
+        bool CheckRole(int roleId);
 
     }
 }
